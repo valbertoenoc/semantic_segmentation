@@ -12,3 +12,6 @@ This architecture is composed of **MOBILENET** as decoder and **UNET** as encode
 | 19            | 93.0% |   87.2% |
 | 20            | 93.1% |   87.6% |
 
+# Prediction example
+
+<image src="images\\predictions.png" width=480>
